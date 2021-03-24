@@ -1,0 +1,6 @@
+pages\LoginPage.class
+utils\DataDriven.class
+pages\CategoryPage.class
+pages\HomePage.class
+testSuite\Tests.class
+utils\Commons.class
